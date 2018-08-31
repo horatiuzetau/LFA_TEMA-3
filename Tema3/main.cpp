@@ -97,7 +97,7 @@ bool verifica(const string& a, const string& b){
     return true;
 }
 
-bool exista(const vector<reg>& gram, const char& start){
+bool apartine(const vector<reg>& gram, const char& start){
     int index;
     index = gasesteIndex(gram, start);
     queue<string> stiva;
@@ -157,7 +157,7 @@ int main() {
     afisareGramatica(gram);
     cout << endl;
 
-    if(exista(gram, start))
+    if(apartine(gram, start))
         cout << "\nMerge";
     else
         cout << "\nNu merge";
