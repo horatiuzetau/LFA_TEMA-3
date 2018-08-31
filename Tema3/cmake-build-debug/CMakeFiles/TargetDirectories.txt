@@ -1,0 +1,3 @@
+C:/Work/Real work/Tema3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Work/Real work/Tema3/cmake-build-debug/CMakeFiles/Tema3.dir
+C:/Work/Real work/Tema3/cmake-build-debug/CMakeFiles/edit_cache.dir
